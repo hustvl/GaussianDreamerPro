@@ -23,10 +23,10 @@ Recently, 3D Gaussian splatting (3D-GS) has achieved great success in reconstruc
 
 ## 📑 Citation
 ```
-@inproceedings{yi2024GaussianDreamerPro,
+@article{GaussianDreamerPro,
     title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
     author={Yi, Taoran and Fang, Jiemin and Zhou, Zanwei and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Wang, Xinggang and Tian, Qi},
-    year = {2024},
-    booktitle = {arxiv}
+    journal={arXiv preprint},
+    year={2024}
 }
 ```
