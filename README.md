@@ -1,9 +1,9 @@
 ![block](./images/teaseradd.gif)
 
 # GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality
-### [Project Page](https://taoranyi.com/gaussiandreamerpro/) | [arxiv Paper](https://arxiv.org/)
+### [Project Page](https://taoranyi.com/gaussiandreamerpro/) | [arxiv Paper](https://arxiv.org/abs/2406.18462)
 
-[GaussianDreamer: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://taoranyi.com/gaussiandreamerpro/)  
+[GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://taoranyi.com/gaussiandreamerpro/)  
 
 [Taoran Yi](https://github.com/taoranyi)<sup>1</sup>,
 [Jiemin Fang](https://jaminfong.cn/)<sup>2†</sup>, [Zanwei Zhou](https://github.com/Zanue)<sup>3</sup>, [Junjie Wang](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=9Nw_mKAAAAAJ)<sup>2</sup>, [Guanjun Wu](https://guanjunwu.github.io/)<sup>1</sup>,  [Lingxi Xie](http://lingxixie.com/)<sup>2</sup>, </br>[Xiaopeng Zhang](https://scholar.google.com/citations?user=Ud6aBAcAAAAJ&hl=zh-CN)<sup>2</sup>,[Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1✉</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1†</sup>, [Qi Tian](https://www.qitian1987.com/)<sup>2</sup> 
@@ -26,7 +26,7 @@ Recently, 3D Gaussian splatting (3D-GS) has achieved great success in reconstruc
 @article{GaussianDreamerPro,
     title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
     author={Yi, Taoran and Fang, Jiemin and Zhou, Zanwei and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Wang, Xinggang and Tian, Qi},
-    journal={arXiv preprint},
+    journal={arXiv:2406.18462},
     year={2024}
 }
 ```
