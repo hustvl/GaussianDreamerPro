@@ -12,21 +12,28 @@
 
 <sup>†</sup>Project lead.  <sup>✉</sup>Corresponding author. 
 
-![block](./images/dance111.gif)
+![block](./images/dance.gif)
 
 Recently, 3D Gaussian splatting (3D-GS) has achieved great success in reconstructing and rendering real-world scenes. To transfer the high rendering quality to generation tasks, a series of research works attempt to generate 3D-Gaussian assets from text. However, the generated assets have not achieved the same quality as those in reconstruction tasks. We observe that Gaussians tend to grow without control as the generation process may cause indeterminacy. Aiming at highly enhancing the generation quality, we propose a novel framework named GaussianDreamerPro. The main idea is to bind Gaussians to reasonable geometry, which evolves over the whole generation process. Along different stages of our framework, both the geometry and appearance can be enriched progressively. The final output asset is constructed with 3D Gaussians bound to mesh, which shows significantly enhanced details and quality compared with previous methods. Notably, the generated asset can also be seamlessly integrated into downstream manipulation pipelines, e.g. animation, composition, and simulation etc., greatly promoting its potential in wide applications.
 
 ## 🦾 Updates
-- 6/26/2024: Initializing the project, code will be coming soon.
-
+- 6/26/2024: Initializing the project, code will come soon.
 
 
 ## 📑 Citation
+
 ```
 @article{GaussianDreamerPro,
     title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
     author={Yi, Taoran and Fang, Jiemin and Zhou, Zanwei and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Wang, Xinggang and Tian, Qi},
     journal={arXiv:2406.18462},
     year={2024}
+}
+
+@inproceedings{yi2023gaussiandreamer,
+  title={GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models},
+  author={Yi, Taoran and Fang, Jiemin and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Tian, Qi and Wang, Xinggang},
+  year = {2024},
+  booktitle = {CVPR}
 }
 ```
