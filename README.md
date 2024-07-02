@@ -30,10 +30,11 @@ Recently, 3D Gaussian splatting (3D-GS) has achieved great success in reconstruc
     year={2024}
 }
 
-@inproceedings{yi2023gaussiandreamer,
-  title={GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models},
+@inproceedings{yi2024gaussiandreamer,
+  title={Gaussiandreamer: Fast generation from text to 3d gaussians by bridging 2d and 3d diffusion models},
   author={Yi, Taoran and Fang, Jiemin and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Tian, Qi and Wang, Xinggang},
-  year = {2024},
-  booktitle = {CVPR}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6796--6807},
+  year={2024}
 }
 ```
