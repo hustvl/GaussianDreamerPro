@@ -1,0 +1,25 @@
+pip==23.3.1
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
+tqdm
+mediapipe
+Pillow
+diffusers==0.18.2
+transformers==4.30.2
+fire==0.5.0
+huggingface_hub==0.24.0
+imageio==2.31.1
+imageio-ffmpeg
+PyYAML
+safetensors
+wandb
+accelerate
+triton
+gradio
+plyfile==0.8.1
+xformers==0.0.20
+open3d
+git+https://github.com/openai/point-e.git
+git+https://github.com/openai/shap-e.git
+# PyMCubes
