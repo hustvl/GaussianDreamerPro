@@ -56,14 +56,9 @@ python meshexport.py -c "path/to/stage1/output/prompt@2024xxx"
 python trainrefine.py --prompt "a DSLR photo of a pair of tan cowboy boots, studio lighting, product photography" --coarse_mesh_path "path/to/stage1/output/prompt@2024xxx/coarse_mesh/xxx.ply"
 ```
 
-
-
-**Application**
-
-Import the generated 3D assets into the Unity game engine to become materials for games and designs with the help of [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting).
-![block](./images/unity.gif)
 ## 📑 Citation
-
+If you find this repository/work helpful in your research, welcome to cite the paper and give a ⭐.
+Some source code of ours is borrowed from [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) and [SuGaR](https://github.com/Anttwo/SuGaR). We sincerely appreciate the excellent works of these authors.
 ```
 @article{GaussianDreamerPro,
     title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
